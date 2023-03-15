@@ -1,5 +1,6 @@
 standing strong
 line 2
+<<<<<<< HEAD
 
 1111 standing strong
 line 3
@@ -17,3 +18,5 @@ some content here
 
 some chages
 _______________________________
+=======
+>>>>>>> parent of b5bc974 (afgdfhfdh)
