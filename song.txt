@@ -20,3 +20,53 @@ some chages
 _______________________________
 =======
 >>>>>>> parent of b5bc974 (afgdfhfdh)
+
+
+
+.github/workflows
+Add github actions
+2 years ago
+addenda
+fixup for addenda and french addendum
+3 years ago
+ci
+Update sources after switching to po4a v0.62
+3 years ago
+en
+update to v2.40.0
+2 weeks ago
+po
+Translated using Weblate (Portuguese (Brazil))
+2 days ago
+scripts
+reorganize some priorities
+last year
+.gitignore
+extend tracked files in en/ to subdirs
+4 months ago
+.travis.yml
+ci: fix missing dependency to python3-polib
+3 years ago
+GIT-VERSION-FILE
+update to v2.40.0
+2 weeks ago
+Gemfile
+Add travis support
+5 years ago
+LICENSE.txt
+Fix licensing issues
+4 years ago
+Makefile
+update priorities setting and include management
+2 years ago
+README.md
+Fix typos in README
+last year
+TEAMS
+First commit
+5 years ago
+asciidoctor-extensions.rb
+Add asciidoctor extension to better format the manpage
+3 years ago
+makefile.locale
+Compile manpages according 
